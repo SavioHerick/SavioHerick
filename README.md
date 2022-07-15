@@ -1,6 +1,6 @@
 <h4 align="center">
 
-![img hollow knight](https://cdna.artstation.com/p/assets/images/images/037/786/530/original/camille-unknown-hk.gif?1621327281)
+![img](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fi.pinimg.com%2Foriginals%2F0e%2F5c%2Fb3%2F0e5cb31168e672dd79c37fdb52cbc31f.gif&f=1&nofb=1)
   
 <hr>
 
