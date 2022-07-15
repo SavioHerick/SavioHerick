@@ -5,9 +5,9 @@
 <hr>
 
 <!--links-->
-[![instagram](https://img.shields.io/badge/-instagram-red?style=for-the-badge&logo=instagram&logoColor=white&link=https://github.com/SavioHerick)](https://www.instagram.com/_lukaian/)
-[![linkedin](https://img.shields.io/badge/-Linkedin-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://github.com/SavioHerick)](https://www.linkedin.com/in/lukaian/)
-[![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=https://github.com/SavioHerick)](mailto:lukaian8979@hotmail.com)
+[![instagram](https://img.shields.io/badge/-instagram-red?style=for-the-badge&logo=instagram&logoColor=white&link=https://github.com/SavioHerick)](https://www.instagram.com/savioherick/)
+[![linkedin](https://img.shields.io/badge/-Linkedin-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://github.com/SavioHerick)](https://www.linkedin.com/in/sávio-herick-6a22b3223/)
+[![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=https://github.com/SavioHerick)](mailto:savioherick2@gmail.com)
   
 </h4>
 
